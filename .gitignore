@@ -1,3 +1,9 @@
+*.user
+*.suo
+Debug/
+Release/
+ReleaseLTCG/
+
 # Prerequisites
 *.d
 
